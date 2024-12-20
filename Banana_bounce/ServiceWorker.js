@@ -1,9 +1,9 @@
 const cacheName = "Realinspirer-Banana Bounce!-1.0";
 const contentToCache = [
-    "Build/BB_website.loader.js",
-    "Build/BB_website.framework.js.unityweb",
-    "Build/BB_website.data.unityweb",
-    "Build/BB_website.wasm.unityweb",
+    "Build/Banana_bounce.loader.js",
+    "Build/Banana_bounce.framework.js.unityweb",
+    "Build/Banana_bounce.data.unityweb",
+    "Build/Banana_bounce.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
