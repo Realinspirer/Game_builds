@@ -1,9 +1,9 @@
 const cacheName = "Realinspirer-BlockLegend!-1.0";
 const contentToCache = [
-    "Build/ec7a456ddc145494732c30a39568b711.loader.js",
-    "Build/939e9949c2a42ea3d49fd04d63c61efe.framework.js",
-    "Build/7a17275bc1b28a9cbdb0c4275aa3f6a1.data",
-    "Build/36c70ccff476b451ee7308220ac48912.wasm",
+    "Build/e1a5d4ab330d5cabd8f9699ab98662ae.loader.js",
+    "Build/7bffbcff39e856a0ccb41716320c3835.framework.js",
+    "Build/87048967ee240e782b2ce30587f39320.data",
+    "Build/aa8e6887a088c34895e33d4d321bd3a7.wasm",
     "TemplateData/style.css"
 
 ];
